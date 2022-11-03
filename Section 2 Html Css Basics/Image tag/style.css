@@ -1,0 +1,34 @@
+body {
+  font-family: "Fira Sans", sans-serif;
+  /* text-align: center; */
+  background-color: lightpink;
+  margin: 50px;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: lightcoral;
+}
+
+h1 {
+  text-align: center;
+  color: darkcyan;
+}
+p {
+  text-align: justify;
+  color: gray;
+}
+#first-id {
+  text-align: justify;
+  color: gold;
+  font-weight: bolder;
+  font-size: 36px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
